@@ -1,7 +1,7 @@
 {
     "codeQL.canary": true,
     "codeQL.telemetry.enableTelemetry": true,
-    "codeQL.remoteQueries.controllerRepo": "github/codeql-adoption",
+    "codeQL.remoteQueries.controllerRepo": "pwntester/vscode-codeql-starter",
     "codeQL.remoteQueries.repositoryLists": {
         "cpp-all": [
             "ARM-software/CMSIS_5",
